@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{83A019C0-80B7-41F2-B3DB-D03AF3A24B2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Blazerapp", "Blazerapp", "{EB016FE3-E5F6-45F1-B060-4FEC1527D3F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazer.WebApp", "Blazer.WebApp\Blazer.WebApp.csproj", "{9906FC6F-9CAC-40C0-9A08-94D548C5F596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9906FC6F-9CAC-40C0-9A08-94D548C5F596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9906FC6F-9CAC-40C0-9A08-94D548C5F596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9906FC6F-9CAC-40C0-9A08-94D548C5F596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9906FC6F-9CAC-40C0-9A08-94D548C5F596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB016FE3-E5F6-45F1-B060-4FEC1527D3F5} = {83A019C0-80B7-41F2-B3DB-D03AF3A24B2A}
+		{9906FC6F-9CAC-40C0-9A08-94D548C5F596} = {EB016FE3-E5F6-45F1-B060-4FEC1527D3F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9557EE-E511-4C15-B833-1B0714BBB252}
+	EndGlobalSection
+EndGlobal
